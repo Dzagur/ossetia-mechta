@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 500" role="img" aria-label="Барс на фоне гор">
+  <rect width="600" height="500" fill="#0f2519"/>
+  <circle cx="300" cy="160" r="55" fill="none" stroke="#c98948" stroke-width="1.5" opacity="0.6"/>
+  <line x1="300" y1="70" x2="300" y2="90" stroke="#c98948" stroke-width="1.5" opacity="0.6"/>
+  <line x1="370" y1="100" x2="358" y2="118" stroke="#c98948" stroke-width="1.5" opacity="0.6"/>
+  <line x1="230" y1="100" x2="242" y2="118" stroke="#c98948" stroke-width="1.5" opacity="0.6"/>
+  <line x1="395" y1="150" x2="375" y2="158" stroke="#c98948" stroke-width="1.5" opacity="0.6"/>
+  <line x1="205" y1="150" x2="225" y2="158" stroke="#c98948" stroke-width="1.5" opacity="0.6"/>
+  <polygon points="120,340 280,160 380,300" fill="#16321f"/>
+  <polygon points="240,340 400,180 520,340" fill="#1d3d26"/>
+  <polygon points="280,160 310,200 250,200" fill="#c98948" opacity="0.3"/>
+  <polygon points="400,180 425,215 375,215" fill="#c98948" opacity="0.3"/>
+  <ellipse cx="300" cy="390" rx="85" ry="32" fill="#c98948"/>
+  <circle cx="225" cy="372" r="28" fill="#c98948"/>
+  <ellipse cx="200" cy="368" rx="14" ry="9" fill="#c98948"/>
+  <path d="M375 380 q38 -28 28 -58 q-5 -18 -22 -14 q-14 4 -9 22" fill="none" stroke="#c98948" stroke-width="7" stroke-linecap="round"/>
+  <rect x="245" y="408" width="10" height="36" rx="3" fill="#c98948"/>
+  <rect x="285" y="408" width="10" height="36" rx="3" fill="#c98948"/>
+  <rect x="330" y="408" width="10" height="36" rx="3" fill="#c98948"/>
+  <rect x="360" y="408" width="10" height="36" rx="3" fill="#c98948"/>
+  <circle cx="270" cy="385" r="2" fill="#0a1a12"/>
+  <circle cx="290" cy="378" r="2" fill="#0a1a12"/>
+  <circle cx="310" cy="388" r="2" fill="#0a1a12"/>
+  <circle cx="330" cy="380" r="2" fill="#0a1a12"/>
+  <rect x="100" y="320" width="14" height="14" fill="none" stroke="#c98948" stroke-width="1.5" transform="rotate(45 107 327)"/>
+  <rect x="490" y="320" width="14" height="14" fill="none" stroke="#c98948" stroke-width="1.5" transform="rotate(45 497 327)"/>
+</svg>

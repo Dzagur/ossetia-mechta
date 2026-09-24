@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 500" role="img" aria-label="Меню Ossetia Mechta">
+  <rect width="600" height="500" fill="#0f2519"/>
+  <rect x="50" y="40" width="500" height="420" rx="24" fill="#16321f" stroke="#c98948" stroke-width="1.5"/>
+  <rect x="290" y="65" width="18" height="18" fill="#c98948" transform="rotate(45 299 74)"/>
+  <line x1="120" y1="74" x2="270" y2="74" stroke="#c98948" stroke-width="0.8" opacity="0.5"/>
+  <line x1="330" y1="74" x2="480" y2="74" stroke="#c98948" stroke-width="0.8" opacity="0.5"/>
+  <text x="300" y="140" text-anchor="middle" font-family="Georgia, serif" font-size="44" fill="#f4f8f4" letter-spacing="6">МЕНЮ</text>
+  <text x="300" y="200" text-anchor="middle" font-family="Georgia, serif" font-size="16" fill="#c98948" letter-spacing="6">◆ КОФЕ ◆</text>
+  <text x="120" y="245" font-family="Arial" font-size="15" fill="#f4f8f4" letter-spacing="2">ЭСПРЕССО</text>
+  <text x="480" y="245" text-anchor="end" font-family="Georgia" font-size="15" fill="#c98948">150</text>
+  <text x="120" y="280" font-family="Arial" font-size="15" fill="#f4f8f4" letter-spacing="2">КАПУЧИНО</text>
+  <text x="480" y="280" text-anchor="end" font-family="Georgia" font-size="15" fill="#c98948">250</text>
+  <text x="120" y="315" font-family="Arial" font-size="15" fill="#f4f8f4" letter-spacing="2">РАФ ОСЕТИЯ</text>
+  <text x="480" y="315" text-anchor="end" font-family="Georgia" font-size="15" fill="#c98948">280</text>
+  <text x="300" y="370" text-anchor="middle" font-family="Georgia, serif" font-size="16" fill="#c98948" letter-spacing="6">◆ ДЕСЕРТЫ ◆</text>
+  <text x="120" y="410" font-family="Arial" font-size="15" fill="#f4f8f4" letter-spacing="2">ЧИЗКЕЙК</text>
+  <text x="480" y="410" text-anchor="end" font-family="Georgia" font-size="15" fill="#c98948">250</text>
+  <text x="120" y="445" font-family="Arial" font-size="15" fill="#f4f8f4" letter-spacing="2">МЕДОВИК</text>
+  <text x="480" y="445" text-anchor="end" font-family="Georgia" font-size="15" fill="#c98948">240</text>
+</svg>

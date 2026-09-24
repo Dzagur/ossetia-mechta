@@ -1,0 +1,165 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="Меню Ossetia Mechta: кофе, десерты и осетинские пироги.">
+  <title>Меню — Ossetia Mechta</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <a class="skip-link" href="#main">Перейти к основному содержанию</a>
+
+  <header class="site-header">
+    <nav class="nav" aria-label="Основная навигация">
+      <a class="logo" href="index.html">
+        <span class="logo-mark">◆</span>
+        <span class="logo-text">
+          <span class="logo-line1">Ossetia</span>
+          <span class="logo-line2">Mechta · coffee &amp; soul</span>
+        </span>
+      </a>
+      <ul class="nav-list">
+        <li><a href="index.html#about">О нас</a></li>
+        <li><a href="menu.html" aria-current="page">Меню</a></li>
+        <li><a href="index.html#order">Предзаказ</a></li>
+        <li><a href="#contacts">Контакты</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <main id="main">
+    <section class="section page-hero">
+      <div>
+        <p class="eyebrow">◆ меню ◆</p>
+        <h1>Напитки и блюда с горным характером</h1>
+        <p class="lead">Выбери напиток и блюдо — и переходи к форме предзаказа.</p>
+      </div>
+      <img class="menu-image" src="assets/menu-board.svg" alt="Иллюстрация меню Ossetia Mechta">
+    </section>
+
+    <!-- КОФЕ -->
+    <section class="section menu-section" aria-labelledby="coffee-title">
+      <div class="menu-heading">
+        <span class="menu-ornament">◆</span>
+        <h2 id="coffee-title">Кофе</h2>
+        <span class="menu-ornament">◆</span>
+      </div>
+      <div class="menu-cards">
+        <article class="menu-card">
+          <h3>Эспрессо</h3>
+          <p>Классика. Плотный, насыщенный.</p>
+          <strong>150 ₽</strong>
+        </article>
+        <article class="menu-card">
+          <h3>Американо</h3>
+          <p>Эспрессо и горячая вода.</p>
+          <strong>180 ₽</strong>
+        </article>
+        <article class="menu-card">
+          <h3>Капучино</h3>
+          <p>Эспрессо, молоко, плотная пена.</p>
+          <strong>250 ₽</strong>
+        </article>
+        <article class="menu-card">
+          <h3>Латте</h3>
+          <p>Мягкий кофе с молоком.</p>
+          <strong>250 ₽</strong>
+        </article>
+        <article class="menu-card">
+          <h3>Флэт уайт</h3>
+          <p>Двойной эспрессо, тонкая текстура.</p>
+          <strong>250 ₽</strong>
+        </article>
+        <article class="menu-card menu-card--featured">
+          <span class="menu-badge">Хит</span>
+          <h3>Раф Осетия</h3>
+          <p>Сливки, мёд, щепотка соли.</p>
+          <strong>280 ₽</strong>
+        </article>
+      </div>
+    </section>
+
+    <!-- НЕ КОФЕ -->
+    <section class="section menu-section" aria-labelledby="not-coffee-title">
+      <div class="menu-heading">
+        <span class="menu-ornament">◆</span>
+        <h2 id="not-coffee-title">Не кофе</h2>
+        <span class="menu-ornament">◆</span>
+      </div>
+      <div class="menu-cards">
+        <article class="menu-card">
+          <h3>Какао</h3>
+          <p>Тёплый шоколадный напиток.</p>
+          <strong>220 ₽</strong>
+        </article>
+        <article class="menu-card">
+          <h3>Матча латте</h3>
+          <p>Японский чай и молоко.</p>
+          <strong>250 ₽</strong>
+        </article>
+        <article class="menu-card">
+          <h3>Горячий шоколад</h3>
+          <p>Плотный, с тёмным шоколадом.</p>
+          <strong>250 ₽</strong>
+        </article>
+        <article class="menu-card">
+          <h3>Чай</h3>
+          <p>Чёрный / зелёный / травяной.</p>
+          <strong>180 ₽</strong>
+        </article>
+      </div>
+    </section>
+
+    <!-- ДЕСЕРТЫ -->
+    <section class="section menu-section" aria-labelledby="desserts-title">
+      <div class="menu-heading">
+        <span class="menu-ornament">◆</span>
+        <h2 id="desserts-title">Десерты</h2>
+        <span class="menu-ornament">◆</span>
+      </div>
+      <div class="menu-cards">
+        <article class="menu-card">
+          <h3>Чизкейк</h3>
+          <p>Классический, к фильтр-кофе.</p>
+          <strong>250 ₽</strong>
+        </article>
+        <article class="menu-card">
+          <h3>Медовик</h3>
+          <p>Мягкие коржи, крем, мёд.</p>
+          <strong>240 ₽</strong>
+        </article>
+        <article class="menu-card">
+          <h3>Пахлава</h3>
+          <p>Слоёная, с орехами и мёдом.</p>
+          <strong>240 ₽</strong>
+        </article>
+      </div>
+    </section>
+
+    <section class="section cta-block">
+      <h2>Уже выбрал?</h2>
+      <p>Оставь предзаказ — бариста подготовит всё к указанному времени.</p>
+      <a class="button" href="index.html#order">Перейти к форме</a>
+    </section>
+  </main>
+
+  <footer id="contacts" class="site-footer">
+    <div class="footer-inner">
+      <div class="footer-col">
+        <p class="footer-logo">◆ Ossetia Mechta</p>
+        <p class="footer-tag">Coffee &amp; Soul</p>
+      </div>
+      <div class="footer-col">
+        <p class="footer-title">Адрес</p>
+        <p>Владикавказ,<br>ул. Горная, 12</p>
+      </div>
+      <div class="footer-col">
+        <p class="footer-title">Контакты</p>
+        <p>+7 900 123-45-67<br>hello@ossetia-mechta.ru</p>
+      </div>
+    </div>
+    <p class="footer-copy">© 2026 Ossetia Mechta. Учебный проект.</p>
+  </footer>
+</body>
+</html>
